@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 336" width="640" height="336" role="img" aria-label="whoami: William Mfry, Co-Founder @ BITWEB">
+  <title>whoami — William Mfry, Co-Founder @ BITWEB</title>
+  <defs><linearGradient id="bd" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#7c3aed"/><stop offset="1" stop-color="#ec4899"/></linearGradient></defs>
+  <style>.m{font:500 17px ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace} .h{font:500 13px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#818cf8}
+  .l0{animation:k0 14.0s linear infinite} @keyframes k0{0%,4.29%{clip-path:inset(0 100% 0 0)} 7.71%,94%{clip-path:inset(0 0 0 0)} 100%{clip-path:inset(0 100% 0 0)}}
+.l1{animation:k1 14.0s linear infinite} @keyframes k1{0%,10.21%{clip-path:inset(0 100% 0 0)} 12.00%,94%{clip-path:inset(0 0 0 0)} 100%{clip-path:inset(0 100% 0 0)}}
+.l2{animation:k2 14.0s linear infinite} @keyframes k2{0%,16.29%{clip-path:inset(0 100% 0 0)} 22.29%,94%{clip-path:inset(0 0 0 0)} 100%{clip-path:inset(0 100% 0 0)}}
+.l3{animation:k3 14.0s linear infinite} @keyframes k3{0%,24.79%{clip-path:inset(0 100% 0 0)} 26.57%,94%{clip-path:inset(0 0 0 0)} 100%{clip-path:inset(0 100% 0 0)}}
+.l4{animation:k4 14.0s linear infinite} @keyframes k4{0%,30.86%{clip-path:inset(0 100% 0 0)} 38.14%,94%{clip-path:inset(0 0 0 0)} 100%{clip-path:inset(0 100% 0 0)}}
+.l5{animation:k5 14.0s linear infinite} @keyframes k5{0%,40.64%{clip-path:inset(0 100% 0 0)} 42.43%,94%{clip-path:inset(0 0 0 0)} 100%{clip-path:inset(0 100% 0 0)}}
+.l6{animation:k6 14.0s linear infinite} @keyframes k6{0%,46.71%{clip-path:inset(0 100% 0 0)} 54.00%,94%{clip-path:inset(0 0 0 0)} 100%{clip-path:inset(0 100% 0 0)}}
+.l7{animation:k7 14.0s linear infinite} @keyframes k7{0%,56.50%{clip-path:inset(0 100% 0 0)} 58.29%,94%{clip-path:inset(0 0 0 0)} 100%{clip-path:inset(0 100% 0 0)}}</style>
+  <rect x="1" y="1" width="638" height="334" rx="14" fill="#0b0d1a" stroke="url(#bd)" stroke-width="2"/>
+  <rect x="1" y="1" width="638" height="38" rx="14" fill="#11142a"/><rect x="1" y="26" width="638" height="13" fill="#11142a"/>
+  <circle cx="26" cy="20" r="6" fill="#ff5f57"/><circle cx="46" cy="20" r="6" fill="#febc2e"/><circle cx="66" cy="20" r="6" fill="#28c840"/>
+  <text class="h" x="320" y="24" text-anchor="middle">william@bitweb: ~</text>
+  <text class="m l0" x="28" y="78"><tspan fill="#22d3ee">❯</tspan> <tspan fill="#e0e7ff">whoami</tspan></text>
+<text class="m l1" x="28" y="104"><tspan fill="#c4b5fd">William Mfry</tspan></text>
+<text class="m l2" x="28" y="140"><tspan fill="#22d3ee">❯</tspan> <tspan fill="#e0e7ff">cat role.txt</tspan></text>
+<text class="m l3" x="28" y="166"><tspan fill="#c4b5fd">Co-Founder @ BITWEB</tspan></text>
+<text class="m l4" x="28" y="202"><tspan fill="#22d3ee">❯</tspan> <tspan fill="#e0e7ff">cat mission.txt</tspan></text>
+<text class="m l5" x="28" y="228"><tspan fill="#c4b5fd">Building the web, bit by bit.</tspan></text>
+<text class="m l6" x="28" y="264"><tspan fill="#22d3ee">❯</tspan> <tspan fill="#e0e7ff">bitweb --status</tspan></text>
+<text class="m l7" x="28" y="290"><tspan fill="#4ade80">● online — let's build something together</tspan></text>
+</svg>

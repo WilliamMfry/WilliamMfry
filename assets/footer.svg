@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160" role="img" aria-label="Thanks for visiting">
+  <title>Thanks for visiting</title>
+  <defs><linearGradient id="w" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#7c3aed"/><stop offset="1" stop-color="#ec4899"/></linearGradient></defs>
+  <style>.f{font:700 26px "Segoe UI",Inter,Helvetica,Arial,sans-serif;letter-spacing:8px} .s{animation:fl 4s ease-in-out infinite} @keyframes fl{50%{transform:translateY(-6px)}}</style>
+  <g opacity=".35"><path fill="url(#w)"><animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0 90 C300 50 500 130 800 80 S1100 60 1200 90 V160 H0Z;M0 80 C250 120 550 40 850 100 S1100 120 1200 70 V160 H0Z;M0 90 C300 50 500 130 800 80 S1100 60 1200 90 V160 H0Z"/></path></g>
+  <g opacity=".6"><path fill="url(#w)"><animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 110 C200 140 450 80 700 115 S1050 140 1200 105 V160 H0Z;M0 115 C250 85 500 145 750 105 S1000 90 1200 120 V160 H0Z;M0 110 C200 140 450 80 700 115 S1050 140 1200 105 V160 H0Z"/></path></g>
+  <path fill="#05060f" d="M0 160 V150 Q600 135 1200 150 V160Z" opacity="0"/>
+  <g class="s"><text class="f" fill="url(#w)" x="600" y="50" text-anchor="middle">THANKS FOR VISITING</text></g>
+</svg>
