@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/BITWEB-Co--Founder-7c3aed?style=for-the-badge&labelColor=05060f" alt="BITWEB Co-Founder"/>
   <img src="https://img.shields.io/badge/Status-Building-22d3ee?style=for-the-badge&labelColor=05060f" alt="Status: building"/>
   <img src="https://komarev.com/ghpvc/?username=WilliamMfry&style=for-the-badge&color=ec4899&label=Profile+views" alt="Profile views"/>
+  <a href="https://bitweb-carte.vercel.app"><img src="https://img.shields.io/badge/Business_card-Open-FF5A2E?style=for-the-badge&labelColor=05060f" alt="My BITWEB business card"/></a>
 </p>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
@@ -26,11 +27,35 @@ I'm **William Mfry**, **co-founder of BITWEB**.
 - 🌐 Passionate about the web and digital products
 - 🤝 Open to collaborations and new projects
 - ⚡ Always shipping, always learning
+- 💳 My business card: **[bitweb-carte.vercel.app](https://bitweb-carte.vercel.app)**
 
 </td>
 <td width="45%" valign="middle" align="center">
 
 <img src="./assets/terminal.svg" alt="whoami terminal" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
+
+## 💳 My BITWEB Business Card
+
+<table>
+<tr>
+<td width="62%" valign="middle">
+
+Call me, message me on WhatsApp, save my contact or send me your project in one tap.
+
+<a href="https://bitweb-carte.vercel.app"><img src="https://img.shields.io/badge/Open_my_card-bitweb--carte.vercel.app-FF5A2E?style=for-the-badge&labelColor=05060f" alt="Open my BITWEB business card"/></a>
+
+<sub>On your phone? Scan the QR code to open it instantly.</sub>
+
+</td>
+<td width="38%" valign="middle" align="center">
+
+<a href="https://bitweb-carte.vercel.app"><img src="./assets/bitweb-card-qr.svg" alt="QR code to my BITWEB business card" width="170"/></a>
 
 </td>
 </tr>
